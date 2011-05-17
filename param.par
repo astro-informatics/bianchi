@@ -1,0 +1,26 @@
+# BIANCHI VII_h simualtion parameter file
+# Jason McEwen             September 2005
+
+omega0 = 0.50
+x      = 0.50
+zE     = 1000
+
+s12H   = 1d-10
+s13H   = 1d-10
+rhand  = T
+
+alpha  = 0e0
+beta   = -90e0
+gamma  = 0e0
+
+apply_beam = F
+fwhm       = 100
+
+init_type = alm
+quad_AB   = qsimp
+quad_IAB  = direct
+N         = 100
+nside     = 64
+lmax      = 64
+filename_out = sky_bianchi.fits
+filetype  = map
