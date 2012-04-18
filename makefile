@@ -22,7 +22,7 @@ OPT = $(OPTPGPLOT) -DMILLIK -m64
 
 # ======== LINKS ========
 
-PROGDIR      = /Users/jdm/Src
+PROGDIR      = ..
 
 HPIXDIR      = $(PROGDIR)/Healpix
 HPIXLIB      = $(HPIXDIR)/lib
