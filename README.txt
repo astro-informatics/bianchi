@@ -17,7 +17,7 @@ VERSION
      Release 1.1, 1 July 2008
 
 AUTHORS
-     J. D. McEwen (mcewen@mrao.cam.ac.uk)
+     J. D. McEwen (http://www.jasonmcewen.org)
 
 ACKNOWLEDGEMENTS
      D. J. Mortlock
@@ -33,32 +33,33 @@ REFERENCE
      If you use the code to produce published works please reference
      the download site http://www.mrao.cam.ac.uk/~jdm57/ and our
      related paper:
+
        J. D. McEwen, M. P. Hobson, A. N. Lasenby. and D. J. Mortlock.
-			 Non-Gaussianity detections in the Bianchi VIIH corrected WMAP
-			 1-year data made with directional spherical wavelets.
+       Non-Gaussianity detections in the Bianchi VIIH corrected WMAP
+       1-year data made with directional spherical wavelets.
        Mon. Not. Roy. Astron. Soc., 369(4):1858-1868, 2006
        (astro-ph/0510349).       
 
 DOCUMENTATION
-     See doc/index_bianchi.html
+     See doc/index.html
 
 REQUIREMENTS
-     S2 (http://www.mrao.cam.ac.uk/~jdm57/)
+     S2 (http://www.jasonmcewen.org/codes.html)
      HEALPix (http://healpix.jpl.nasa.gov/)
      CFITSIO (http://heasarc.gsfc.nasa.gov/docs/software/fitsio/)
 
 INSTALLATION
-     See doc/index_bianchi.html
+     See doc/index.html
 
 DOWNLOAD
-     http://www.mrao.cam.ac.uk/~jdm57/
+     http://www.jasonmcewen.org
 
 SUPPORT
-     Contact Jason McEwen (mcewen@mrao.cam.ac.uk)
+     Contact Jason McEwen
 
 NOTE
      The package is still under development
-     Please report problems/bugs by email to: mcewen@mrao.cam.ac.uk
+     Please report problems/bugs by email to Jason McEwen
 
 LICENSE
      Bianchi code to simulate induced temperature fluctuations in CMB maps
